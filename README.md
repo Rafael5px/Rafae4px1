@@ -7,11 +7,10 @@
 <li>Criar mais conteúdos de minecraft e de Brawl stars</li>
 <li>Fazer lives Interativas</li>
 
-# Datas dos vídeos.
-
-<li>24/09/2024 vídeo de Minecraft
-<li>25/09/2024 vídeo de Brawl stras
-<li>01/10/2024 vídeo de Roblox
+# Datas dos vídeos
+<li>vídeo de Minecraft
+<li>vídeo de Brawl stras
+<li>vídeo de Roblox
 
 # Informações.
 
